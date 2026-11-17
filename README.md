@@ -265,53 +265,46 @@ Generate structured reports from the completed analysis.
 
 ---
 
-# 🏆 Certifications
+# 🏆 Certifications & Achievements
 
-| 🏅 Certification              | 🏢 Organization | 📅 Date             |
-| ----------------------------- | --------------- | ------------------- |
-| GenAI Powered Data Analytics  | Tata            | May 2026            |
-| Data Analytics Job Simulation | Deloitte        | June 2026           |
-| Introduction to Generative AI | Google          | October 2026        |
-| Data Science Diploma          | IIHT Jaipur     | Oct 2025 – Apr 2026 |
+### 📚 Learning Beyond the Classroom
 
----
+> ### 🤖 GenAI Powered Data Analytics
+> **Tata** • May 2026  
+> `Generative AI` `Data Analytics` `Business Insights`
 
-# 🎯 Career Focus
+<br>
 
-<div align="center">
+> ### 📊 Data Analytics Job Simulation
+> **Deloitte** • June 2026  
+> `Data Analysis` `Business Analytics` `Problem Solving`
 
+<br>
 
+> ### 🧠 Introduction to Generative AI
+> **Google** • October 2026  
+> `Generative AI` `LLMs` `AI Fundamentals`
 
+<br>
 
-
-
-
-
-
-</div>
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-<a href="www.linkedin.com/in/mukesh-kumar-a78b083ab"> \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)"> \</a>
-
-<a href="mailto\:mukeshmeghwal31rj@gmail.com"> \<img src="[https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)"> \</a>
-
-<a href="[https://github.com/Mukeshrj31](https://github.com/Mukeshrj31)"> \<img src="[https://img.shields.io/badge/GitHub-Mukeshrj31-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Mukeshrj31-181717?style=for-the-badge\&logo=github)"> \</a>
-
-</div>
+> ### 🎓 Data Science Diploma
+> **IIHT Jaipur** • Oct 2025 – Apr 2026  
+> `Python` `Data Science` `Statistics` `Machine Learning`
 
 ---
 
-<div align="center">
+### 🧩 Skills Strengthened Through Certifications
 
-### 💡 Data → Intelligence → Impact
+![Data Science](https://img.shields.io/badge/Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-⭐ **Thanks for visiting my GitHub profile!**
+---
 
-*Building one intelligent project at a time.*
+### 🚀 Learning Journey
 
-</div>
+**Data Science Foundation** → **Data Analytics** → **Generative AI** → **Building Intelligent Systems**
+
+---
+
