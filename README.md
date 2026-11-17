@@ -267,8 +267,6 @@ Generate structured reports from the completed analysis.
 
 # 🏆 Certifications & Achievements
 
-### 📚 Professional Learning Journey
-
 > ### <img src="https://cdn.simpleicons.org/tata/486AAE" width="28" height="28"> &nbsp; GenAI Powered Data Analytics
 >
 > **Tata** • May 2026  
