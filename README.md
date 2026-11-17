@@ -153,87 +153,8 @@
 
 ---
 
-# 🚀 Featured Project
-
-## 🤖 Nova AI
-
-### Multi-Agent Data Analytics & Business Intelligence Platform
-
-\<div align="center">
-
-\<img src="./assets/nova-dashboard.png" width="100%" alt="Nova AI Data Analytics Dashboard">
-
-\<br>\<br>
 
 
-
-
-
-\
-
-
-\</div>
-
-> **Nova AI** is a multi-agent data analytics platform designed to transform raw datasets into actionable business insights through automated analysis, intelligent SQL, KPI monitoring and AI-assisted decision support.
-
-### ✨ Core Capabilities
-
-| 🧠 AI Intelligence       | 📊 Business Analytics | 🔐 Security              |
-| ------------------------ | --------------------- | ------------------------ |
-| Supervisor Planning      | Data Cleaning         | Authentication           |
-| Advanced Statistics      | Automated EDA         | Role-Based Access        |
-| Root-Cause Investigation | KPI Analysis          | Audit Logging            |
-| Self-Correcting SQL      | Dynamic Dashboards    | SQL Permission Controls  |
-| Independent Verification | Business Insights     | Secure Upload Validation |
-| AI-Assisted Analysis     | Management Reports    | Admin Access             |
-
-### ⚡ How Nova Works
-
-\<div align="center">
-
-**📁 Upload Dataset**
-
-⬇️
-
-**🧹 Clean & Process Data**
-
-⬇️
-
-**📊 EDA + Statistical Analysis**
-
-⬇️
-
-**🧠 Multi-Agent Investigation**
-
-⬇️
-
-**🗃️ Intelligent SQL Analysis**
-
-⬇️
-
-**💡 Business Insights**
-
-⬇️
-
-**📈 KPI Monitoring & Alerts**
-
-⬇️
-
-**📄 Management Reports**
-
-\</div>
-
-### 🎯 What Nova Demonstrates
-
-`Data Science` • `Data Analytics` • `SQL` • `AI Agents` • `LLM Integration` • `Business Intelligence` • `Data Engineering` • `Dashboard Development`
-
-\<div align="center">
-
-\<br>
-
-\<a href="PASTE_YOUR_NOVA_REPOSITORY_URL_HERE"> \<img src="[https://img.shields.io/badge/VIEW_NOVA_AI-GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/VIEW_NOVA_AI-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"> \</a>
-
-\<br>\<br>
 
 ### 💡 From Raw Data to Intelligent Business Decisions
 
@@ -242,51 +163,99 @@
 ---
 
 
+# 🚀 Featured Project
 
-## 🖼️ Project Showcase
+## 🤖 Nova AI
 
-<div align="center">
+### Multi-Agent Data Analytics & Business Intelligence Platform
 
-### 🤖 Nova AI — Multi-Agent Data Analytics Platform
+![Nova AI Dashboard](./assets/nova-dashboard.png)
 
-<img src="./assets/nova-dashboard.png"
-     width="900"
-     alt="Nova AI Data Analytics Dashboard">
+> **Nova AI** is a multi-agent data analytics and business intelligence platform designed to transform raw datasets into actionable insights through automated analysis, intelligent SQL, KPI monitoring, AI-assisted investigation, and reporting.
 
-<br>
+---
 
-<sub>
-Multi-Agent Analytics • Automated EDA • SQL Intelligence • KPI Monitoring • Business Insights
-</sub>
+## ✨ Core Capabilities
 
-</div>
+| 🧠 AI Intelligence | 📊 Business Analytics | 🔐 Security |
+|---|---|---|
+| Supervisor Planning | Data Cleaning | Authentication |
+| Advanced Statistics | Automated EDA | Role-Based Access |
+| Root-Cause Investigation | KPI Analysis | Audit Logging |
+| Self-Correcting SQL | Dynamic Dashboards | SQL Permission Controls |
+| Independent Verification | Business Insights | Secure Upload Validation |
+| AI-Assisted Analysis | Management Reports | Admin Access |
 
+---
 
-## 🔄 What I Build
+## ⚡ How Nova Works
 
-<div align="center">
+### 📁 1. Upload Dataset
+Upload CSV or Excel datasets for analysis.
 
-### 📂 Raw Data
 ⬇️
 
-### 🧹 Data Cleaning & Processing
+### 🧹 2. Clean & Process Data
+Prepare and validate the dataset for analysis.
+
 ⬇️
 
-### 🗄️ SQL / Data Pipeline
+### 📊 3. EDA & Statistical Analysis
+Explore distributions, relationships, trends, and statistical patterns.
+
 ⬇️
 
-### 📊 Data Analysis & Machine Learning
+### 🧠 4. Multi-Agent Investigation
+Specialized AI agents work together to investigate the dataset.
+
 ⬇️
 
-### 🧠 LLM + RAG + AI Agents
+### 🗃️ 5. Intelligent SQL Analysis
+Generate, execute, and validate analytical SQL queries.
+
 ⬇️
 
-### 🖥️ Interactive Application
+### 💡 6. Business Insights
+Transform analytical findings into understandable business insights.
+
 ⬇️
 
-### 💡 Business Insights
+### 📈 7. KPI Monitoring & Alerts
+Monitor important metrics and identify warning or critical conditions.
 
-</div>
+⬇️
+
+### 📄 8. Management Reports
+Generate structured reports from the completed analysis.
+
+---
+
+## 🛠️ Technology Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge)
+
+---
+
+## 🎯 What This Project Demonstrates
+
+`Data Science` `Data Analytics` `EDA` `Statistics` `SQL` `AI Agents` `LLM Integration` `Business Intelligence` `Data Engineering` `Dashboard Development`
+
+---
+
+## 🔗 Project Repository
+
+[![View Nova AI on GitHub](https://img.shields.io/badge/View_Nova_AI-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](PASTE_YOUR_NOVA_REPOSITORY_URL_HERE)
+
+---
+
+### 💡 From Raw Data → Analysis → Intelligence → Business Decisions
+
 
 # 🎓 Education
 
