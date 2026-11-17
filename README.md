@@ -264,34 +264,96 @@ Generate structured reports from the completed analysis.
 `Data Science` • `Statistics` • `Databases` • `Programming` • `Machine Learning` • `Data Structures` • `AI Technologies`
 
 ---
+# 🏆 Licenses & Certifications
 
-# 🏆 Certifications & Achievements
+\<table>
 
-> ### <img src="https://cdn.simpleicons.org/tata/486AAE" width="28" height="28"> &nbsp; GenAI Powered Data Analytics
->
-> **Tata** • May 2026  
-> `Generative AI` `Data Analytics` `Business Insights`
+\<tr> \<td width="90" align="center"> \<img src="./assets/tata-logo.png" width="65" alt="Tata"> \</td>
 
-<br>
+\<td>
 
-> ### <img src="https://cdn.simpleicons.org/deloitte/86BC25" width="28" height="28"> &nbsp; Data Analytics Job Simulation
->
-> **Deloitte** • June 2026  
-> `Data Analytics` `Business Analysis` `Problem Solving`
+### Tata – GenAI Powered Data Analytics Job Simulation
 
-<br>
+**Tata Group**
 
-> ### <img src="https://cdn.simpleicons.org/google/4285F4" width="28" height="28"> &nbsp; Introduction to Generative AI
->
-> **Google** • October 2026  
-> `Generative AI` `LLMs` `AI Fundamentals`
+Issued Jun 2026
 
-<br>
+`Generative AI` `Data Analytics` `Business Insights`
 
-> ### 🎓 &nbsp; Data Science Diploma
->
-> **IIHT Jaipur** • Oct 2025 – Apr 2026  
-> `Python` `Data Science` `Statistics` `Machine Learning`
+
+
+\</td> \</tr>
+
+\<tr> \<td width="90" align="center"> \<img src="./assets/deloitte-logo.png" width="65" alt="Deloitte"> \</td>
+
+\<td>
+
+### Deloitte Australia – Data Analytics Job Simulation
+
+**Deloitte**
+
+Issued Jun 2026
+
+`Data Analytics` `Business Analysis` `Problem Solving`
+
+
+
+\</td>
+\</tr>
+
+\<tr>
+\<td width="90" align="center">
+\<img src="./assets/unstop-logo.png" width="65" alt="Unstop">
+\</td>
+
+\<td>
+
+### Certificate of Completion | Learn Data Interpretation
+
+**Unstop**
+
+Issued Oct 2026
+
+`Data Interpretation` `Analytics` `Problem Solving`
+
+
+
+\</td> \</tr>
+
+\<tr> \<td width="90" align="center"> \<img src="./assets/google-logo.png" width="65" alt="Google"> \</td>
+
+\<td>
+
+### Introduction to Generative AI
+
+**Google**
+
+Issued Oct 2026
+
+`Generative AI` `LLMs` `AI Fundamentals`
+
+
+
+\</td> \</tr>
+
+\<tr> \<td width="90" align="center"> \<img src="./assets/iiht-logo.png" width="65" alt="IIHT Jaipur"> \</td>
+
+\<td>
+
+### Data Science Diploma
+
+**IIHT Jaipur**
+
+Oct 2025 – Apr 2026
+
+`Python` `Statistics` `Data Science` `Machine Learning`
+
+
+
+\</td>
+\</tr>
+
+\</table>
 
 ---
 
