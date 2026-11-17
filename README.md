@@ -282,9 +282,9 @@ Issued Jun 2026
 
 
 
-</td> \</tr>
+</td> </tr>
 
-<tr> \<td width="90" align="center"> \<img src="./assets/deloitte-logo.png" width="65" alt="Deloitte"> \</td>
+<tr> <td width="90" align="center"> <img src="./assets/deloitte-logo.png" width="65" alt="Deloitte"> </td>
 
 <td>
 
@@ -318,9 +318,9 @@ Issued Oct 2026
 
 
 
-</td> \</tr>
+</td> </tr>
 
-<tr> \<td width="90" align="center"> \<img src="./assets/google-logo.png" width="65" alt="Google"> \</td>
+<tr> <td width="90" align="center"> <img src="./assets/google-logo.png" width="65" alt="Google"> </td>
 
 <td>
 
@@ -334,9 +334,9 @@ Issued Oct 2026
 
 
 
-</td> \</tr>
+</td> </tr>
 
-<tr> \<td width="90" align="center"> \<img src="./assets/iiht-logo.png" width="65" alt="IIHT Jaipur"> \</td>
+<tr> <td width="90" align="center"> <img src="./assets/iiht-logo.png" width="65" alt="IIHT Jaipur"> </td>
 
 <td>
 
