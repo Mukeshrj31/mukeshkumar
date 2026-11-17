@@ -42,3 +42,43 @@ Tools
 • VS Code
 • Jupyter Notebook
 • Streamlit
+
+# Nova AI
+
+## Overview
+What problem does the project solve?
+
+## Features
+- AI agents
+- Automated EDA
+- SQL analysis
+- KPI monitoring
+- Dashboard
+- Report generation
+
+## Architecture
+Diagram / flowchart
+
+## Tech Stack
+Python | Streamlit | PostgreSQL | Pandas | LLM
+
+## Screenshots
+Dashboard images
+
+## Installation
+
+git clone ...
+pip install -r requirements.txt
+
+## Run
+
+streamlit run app.py
+
+## Project Structure
+
+## Results
+
+## Future Improvements
+
+## Author
+Mukesh
