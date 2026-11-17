@@ -43,42 +43,16 @@ Tools
 • Jupyter Notebook
 • Streamlit
 
-# Nova AI
+## 🚀 Featured Projects
 
-## Overview
-What problem does the project solve?
+### 🤖 Nova AI
+Multi-Agent Data Analytics Platform capable of automated EDA,
+SQL analysis, KPI monitoring and business intelligence.
 
-## Features
-- AI agents
-- Automated EDA
-- SQL analysis
-- KPI monitoring
-- Dashboard
-- Report generation
+**Tech:** Python • Streamlit • PostgreSQL • Pandas • LLMs
 
-## Architecture
-Diagram / flowchart
+[View Project →](YOUR_NOVA_REPOSITORY_LINK)
 
-## Tech Stack
-Python | Streamlit | PostgreSQL | Pandas | LLM
+---
 
-## Screenshots
-Dashboard images
 
-## Installation
-
-git clone ...
-pip install -r requirements.txt
-
-## Run
-
-streamlit run app.py
-
-## Project Structure
-
-## Results
-
-## Future Improvements
-
-## Author
-Mukesh
