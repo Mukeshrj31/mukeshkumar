@@ -1,31 +1,22 @@
-\<div align="center">
+<div align="center">
 
 # 👋 Hi, I'm Mukesh
 
 ### 📊 Data Science Student | 🤖 Generative AI | ⚙️ Data Engineering
 
-> Building intelligent systems by combining **Data Science, Machine Learning, LLMs, RAG, AI Agents and Data Engineering**
+**Building intelligent systems by combining Data Science, Machine Learning, LLMs, RAG, AI Agents and Data Engineering**
 
-\<br>
-
-
-
-
-\
-
-
-\</div>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-```yaml
-name: Mukesh
-education: Master of Computer Applications (MCA)
-specialization: Data Science
+Name: Mukesh Kumar
+Education: Master of Computer Applications (MCA)
+Specialization: Data Science
 
-interests:
+Interests:
   - Data Science
   - Data Analytics
   - Generative AI
@@ -34,7 +25,7 @@ interests:
   - AI Agents
   - Data Engineering
 
-currently_learning:
+Currently_learning:
   - Advanced RAG
   - Multimodal AI
   - AI Agent Architecture
