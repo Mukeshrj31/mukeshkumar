@@ -85,7 +85,7 @@ An AI-powered analytics system designed to automate data analysis and help users
 
 **Tech Stack:** `Python` • `Streamlit` • `PostgreSQL` • `Pandas` • `SQL` • `LLMs`
 
-🔗 **[View Nova AI Project](PASTE_NOVA_AI_REPOSITORY_URL_HERE)**
+🔗 **[View Nova AI Project](https://github.com/Mukeshrj31/nova-ai-data-analyst.git)**
 
 ---
 
