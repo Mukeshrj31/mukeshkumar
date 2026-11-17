@@ -268,7 +268,7 @@ Generate structured reports from the completed analysis.
 
 <table>
 
-<tr> \<td width="90" align="center"> \<img src="./assets/tata-logo.png" width="65" alt="Tata"> \</td>
+<tr> <td width="90" align="center"> <img src="./assets/tata-logo.png" width="65" alt="Tata"> </td>
 
 <td>
 
