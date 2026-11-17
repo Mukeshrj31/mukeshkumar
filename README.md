@@ -125,57 +125,23 @@ AI-powered analytics platform designed to transform datasets into actionable bus
 
 \<td width="50%" valign="top">
 
-## 🧠 AI Digital Twin
+## 🖼️ Project Showcase
 
-### RAG-Powered Personal AI
+<div align="center">
 
-Personal knowledge assistant capable of retrieving information and generating context-aware responses.
+### 🤖 Nova AI — Multi-Agent Data Analytics Platform
 
-**✨ Features**
+<img src="./assets/nova-dashboard.png"
+     width="900"
+     alt="Nova AI Data Analytics Dashboard">
 
-- 🧠 Personal Knowledge Base
-- 🔎 Semantic Search
-- 📚 RAG Pipeline
-- 🔢 Embeddings
-- 🗄️ Vector Database
-- 💬 Context-Aware Q&A
-- 📄 Document Processing
+<br>
 
-**⚙️ Stack**
+<sub>
+Multi-Agent Analytics • Automated EDA • SQL Intelligence • KPI Monitoring • Business Insights
+</sub>
 
-`Python` `RAG` `LLM` `Embeddings` `Vector DB`
-
-\<br>
-
-\<a href="PASTE_AI_TWIN_REPOSITORY_URL">
-&#x20; \<img src="[https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge\&logo=github\&logoColor=white)">
-\</a>
-
-\</td>
-
-\</tr>
-\</table>
-
----
-
-# 🖼️ Project Showcase
-
-\<div align="center">
-
-### 🤖 Nova AI Dashboard
-
-\<!-- Upload your Nova screenshot to GitHub and replace this path -->
-
-\<img src="./assets/nova-dashboard.png" width="850" alt="Nova AI Dashboard">
-
-\<br>\<br>
-
-### 🧠 AI Digital Twin
-
-\<img src="./assets/ai-twin-dashboard.png" width="850" alt="AI Digital Twin Dashboard">
-
-\</div>
-
+</div>
 ---
 
 # 🔄 What I Build
