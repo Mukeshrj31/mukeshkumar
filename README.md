@@ -1,47 +1,30 @@
-👋 Hi, I'm Mukesh
+# Hi, I'm Mukesh 👋
 
-🎓 MCA | Data Science Student
-📊 Interested in Data Science, Generative AI & Data Engineering
-🚀 Building intelligent systems using real-world data
+MCA | Data Science Student
+Data Science • Generative AI • Data Engineering
 
-TECHNICAL SKILLS
+👨‍💻 About Me
 
-Languages
-• Python
-• SQL
-• Java
-• C
+🛠️ Tech Stack
+[Python] [SQL] [Pandas] [Scikit-learn]
+[PostgreSQL] [Streamlit] [Git]
+[LLMs] [RAG] [AI Agents]
 
-Data Science
-• Pandas
-• NumPy
-• Matplotlib
-• Scikit-learn
-• Statistics
-• EDA
-• Machine Learning
+🚀 Featured Projects
 
-Generative AI
-• LLMs
-• RAG
-• Embeddings
-• Vector Databases
-• Multimodal AI
-• AI Agents
+🤖 Nova AI
+🧠 AI Digital Twin
+📊 Data Science / ML Project
+⚙️ Data Engineering Project
 
-Data Engineering & Databases
-• ETL Pipelines
-• PostgreSQL
-• MySQL
-• Data Cleaning
-• Data Processing
+📊 GitHub Stats
 
-Tools
-• Git
-• GitHub
-• VS Code
-• Jupyter Notebook
-• Streamlit
+🎓 Education
+
+📜 Certifications
+
+📫 Connect With Me
+LinkedIn | Email
 
 ## 🚀 Featured Projects
 
