@@ -143,39 +143,32 @@ Multi-Agent Analytics • Automated EDA • SQL Intelligence • KPI Monitoring 
 
 </div>
 
-# 🔄 What I Build
 
-\<div align="center">
+## 🔄 What I Build
+
+<div align="center">
 
 ### 📂 Raw Data
-
 ⬇️
 
 ### 🧹 Data Cleaning & Processing
-
 ⬇️
 
 ### 🗄️ SQL / Data Pipeline
-
 ⬇️
 
 ### 📊 Data Analysis & Machine Learning
-
 ⬇️
 
 ### 🧠 LLM + RAG + AI Agents
-
 ⬇️
 
 ### 🖥️ Interactive Application
-
 ⬇️
 
 ### 💡 Business Insights
 
-\</div>
-
----
+</div>
 
 # 🎓 Education
 
