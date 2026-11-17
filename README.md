@@ -142,7 +142,6 @@ Multi-Agent Analytics • Automated EDA • SQL Intelligence • KPI Monitoring 
 </sub>
 
 </div>
----
 
 # 🔄 What I Build
 
