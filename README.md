@@ -12,26 +12,57 @@
 
 ## 👨‍💻 About Me
 
-Name: Mukesh Kumar
-Education: Master of Computer Applications (MCA)
-Specialization: Data Science
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Interests:
-  - Data Science
-  - Data Analytics
-  - Generative AI
-  - LLM Applications
-  - RAG Systems
-  - AI Agents
-  - Data Engineering
+### 🚀 Who I Am
 
-Currently_learning:
-  - Advanced RAG
-  - Multimodal AI
-  - AI Agent Architecture
-  - Data Engineering
+🎓 **MCA — Data Science**
+
+📊 Building skills in **Data Science & Analytics**
+
+🤖 Exploring **Generative AI, LLMs & RAG**
+
+🧠 Building **AI Agents & intelligent applications**
+
+⚙️ Learning **Data Engineering & ETL Pipelines**
+
+💡 Interested in solving **real-world problems with data + AI**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔭 Currently Exploring
+
+```text
+🧠 Advanced RAG Systems
+🤖 AI Agent Architecture
+👁️ Multimodal AI
+🗄️ Vector Databases
+⚙️ Data Engineering
+🔗 End-to-End AI Systems
 ```
 
+### 🎯 Career Direction
+
+`Data Science` • `Data Analytics`  
+`Generative AI` • `Data Engineering`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💡 My Mission
+
+**Transforming raw data into intelligent, useful and real-world AI solutions.**
+
+</div>
+
+---
 🎯 My goal is to build **end-to-end intelligent applications** that transform raw data into useful insights and AI-powered solutions.
 
 ---
