@@ -158,7 +158,7 @@
 
 ### 💡 From Raw Data to Intelligent Business Decisions
 
-\</div>
+</div>
 
 ---
 
@@ -250,11 +250,9 @@ Generate structured reports from the completed analysis.
 
 ## 🔗 Project Repository
 
-[![View Nova AI on GitHub](https://img.shields.io/badge/View_Nova_AI-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](PASTE_YOUR_NOVA_REPOSITORY_URL_HERE)
+[![View Nova AI on GitHub](https://img.shields.io/badge/View_Nova_AI-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mukeshrj31/nova-ai-data-analyst.git)
 
 ---
-
-### 💡 From Raw Data → Analysis → Intelligence → Business Decisions
 
 
 # 🎓 Education
@@ -280,7 +278,7 @@ Generate structured reports from the completed analysis.
 
 # 🎯 Career Focus
 
-\<div align="center">
+<div align="center">
 
 
 
@@ -290,25 +288,25 @@ Generate structured reports from the completed analysis.
 
 
 
-\</div>
+</div>
 
 ---
 
 # 📫 Let's Connect
 
-\<div align="center">
+<div align="center">
 
-\<a href="PASTE_LINKEDIN_URL"> \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)"> \</a>
+<a href="www.linkedin.com/in/mukesh-kumar-a78b083ab"> \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)"> \</a>
 
-\<a href="mailto\:YOUR_EMAIL"> \<img src="[https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)"> \</a>
+<a href="mailto\:mukeshmeghwal31rj@gmail.com"> \<img src="[https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)"> \</a>
 
-\<a href="[https://github.com/Mukeshrj31](https://github.com/Mukeshrj31)"> \<img src="[https://img.shields.io/badge/GitHub-Mukeshrj31-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Mukeshrj31-181717?style=for-the-badge\&logo=github)"> \</a>
+<a href="[https://github.com/Mukeshrj31](https://github.com/Mukeshrj31)"> \<img src="[https://img.shields.io/badge/GitHub-Mukeshrj31-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Mukeshrj31-181717?style=for-the-badge\&logo=github)"> \</a>
 
-\</div>
+</div>
 
 ---
 
-\<div align="center">
+<div align="center">
 
 ### 💡 Data → Intelligence → Impact
 
@@ -316,4 +314,4 @@ Generate structured reports from the completed analysis.
 
 *Building one intelligent project at a time.*
 
-\</div>
+</div>
