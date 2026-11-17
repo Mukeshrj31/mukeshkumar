@@ -266,11 +266,11 @@ Generate structured reports from the completed analysis.
 ---
 # 🏆 Licenses & Certifications
 
-\<table>
+<table>
 
-\<tr> \<td width="90" align="center"> \<img src="./assets/tata-logo.png" width="65" alt="Tata"> \</td>
+<tr> \<td width="90" align="center"> \<img src="./assets/tata-logo.png" width="65" alt="Tata"> \</td>
 
-\<td>
+<td>
 
 ### Tata – GenAI Powered Data Analytics Job Simulation
 
@@ -282,11 +282,11 @@ Issued Jun 2026
 
 
 
-\</td> \</tr>
+</td> \</tr>
 
-\<tr> \<td width="90" align="center"> \<img src="./assets/deloitte-logo.png" width="65" alt="Deloitte"> \</td>
+<tr> \<td width="90" align="center"> \<img src="./assets/deloitte-logo.png" width="65" alt="Deloitte"> \</td>
 
-\<td>
+<td>
 
 ### Deloitte Australia – Data Analytics Job Simulation
 
@@ -298,15 +298,15 @@ Issued Jun 2026
 
 
 
-\</td>
-\</tr>
+</td>
+</tr>
 
-\<tr>
-\<td width="90" align="center">
-\<img src="./assets/unstop-logo.png" width="65" alt="Unstop">
-\</td>
+<tr>
+<td width="90" align="center">
+<img src="./assets/unstop-logo.png" width="65" alt="Unstop">
+</td>
 
-\<td>
+<td>
 
 ### Certificate of Completion | Learn Data Interpretation
 
@@ -318,11 +318,11 @@ Issued Oct 2026
 
 
 
-\</td> \</tr>
+</td> \</tr>
 
-\<tr> \<td width="90" align="center"> \<img src="./assets/google-logo.png" width="65" alt="Google"> \</td>
+<tr> \<td width="90" align="center"> \<img src="./assets/google-logo.png" width="65" alt="Google"> \</td>
 
-\<td>
+<td>
 
 ### Introduction to Generative AI
 
@@ -334,11 +334,11 @@ Issued Oct 2026
 
 
 
-\</td> \</tr>
+</td> \</tr>
 
-\<tr> \<td width="90" align="center"> \<img src="./assets/iiht-logo.png" width="65" alt="IIHT Jaipur"> \</td>
+<tr> \<td width="90" align="center"> \<img src="./assets/iiht-logo.png" width="65" alt="IIHT Jaipur"> \</td>
 
-\<td>
+<td>
 
 ### Data Science Diploma
 
@@ -350,10 +350,10 @@ Oct 2025 – Apr 2026
 
 
 
-\</td>
-\</tr>
+</td>
+</tr>
 
-\</table>
+</table>
 
 ---
 
