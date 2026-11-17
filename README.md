@@ -67,40 +67,104 @@
 
 ---
 
-# 🛠️ Technology Stack
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c" />
+
+<br>
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 📊 Data Science & Machine Learning
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+`EDA` • `Statistics` • `Data Cleaning` • `Feature Engineering` • `Machine Learning`
+
+---
+
+### 🤖 Generative AI & LLM Engineering
+
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-005571?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-FF6F00?style=for-the-badge)
+![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-8A2BE2?style=for-the-badge)
+
+`Vector Search` • `Semantic Search` • `Prompt Engineering` • `Context Retrieval`
+
+---
+
+### 🗄️ Databases & Data Engineering
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+<br>
+
+![ETL](https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=for-the-badge)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-025E8C?style=for-the-badge)
+![Vector Database](https://img.shields.io/badge/Vector_Database-00A67E?style=for-the-badge)
+
+`ETL` • `Data Processing` • `Database Design` • `SQL Analytics`
+
+---
+
+### ⚙️ Development & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+
+<br>
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</div>
+
+---
+
+### 🧩 How My Stack Connects
+
+<div align="center">
+
+**📂 Data Sources**  
+⬇️  
+**🐍 Python + SQL**  
+⬇️  
+**🧹 Data Processing + ETL**  
+⬇️  
+**📊 Data Science + Machine Learning**  
+⬇️  
+**🧠 LLM + RAG + AI Agents**  
+⬇️  
+**🗄️ PostgreSQL + Vector Database**  
+⬇️  
+**🖥️ Streamlit Application**
+
+</div>
+
+---
+
+# 🚀 Featured Project
+
+## 🤖 Nova AI
+
+### Multi-Agent Data Analytics & Business Intelligence Platform
 
 \<div align="center">
 
-### 👨‍💻 Programming
+\<img src="./assets/nova-dashboard.png" width="100%" alt="Nova AI Data Analytics Dashboard">
 
+\<br>\<br>
 
-
-\
-
-
-### 📊 Data Science & ML
-
-
-
-\
-
-
-### 🧠 Generative AI
-
-
-
-
-
-\
-
-
-### 🗄️ Database & Engineering
-
-
-\
-
-
-### 🔧 Tools
 
 
 
@@ -110,42 +174,74 @@
 
 \</div>
 
----
+> **Nova AI** is a multi-agent data analytics platform designed to transform raw datasets into actionable business insights through automated analysis, intelligent SQL, KPI monitoring and AI-assisted decision support.
 
-# 🚀 Featured Projects
+### ✨ Core Capabilities
 
-\<table>
-\<tr>
+| 🧠 AI Intelligence       | 📊 Business Analytics | 🔐 Security              |
+| ------------------------ | --------------------- | ------------------------ |
+| Supervisor Planning      | Data Cleaning         | Authentication           |
+| Advanced Statistics      | Automated EDA         | Role-Based Access        |
+| Root-Cause Investigation | KPI Analysis          | Audit Logging            |
+| Self-Correcting SQL      | Dynamic Dashboards    | SQL Permission Controls  |
+| Independent Verification | Business Insights     | Secure Upload Validation |
+| AI-Assisted Analysis     | Management Reports    | Admin Access             |
 
-\<td width="50%" valign="top">
+### ⚡ How Nova Works
 
-## 🤖 Nova AI
+\<div align="center">
 
-### Multi-Agent Data Analytics Platform
+**📁 Upload Dataset**
 
-AI-powered analytics platform designed to transform datasets into actionable business insights.
+⬇️
 
-**✨ Features**
+**🧹 Clean & Process Data**
 
-- 🤖 Multi-Agent AI
-- 📊 Automated EDA
-- 🗃️ Intelligent SQL Analysis
-- 📈 KPI Monitoring
-- 🚨 Automated Alerts
-- 💡 Business Insights
-- 📄 Report Generation
+⬇️
 
-**⚙️ Stack**
+**📊 EDA + Statistical Analysis**
 
-`Python` `Streamlit` `PostgreSQL` `Pandas` `SQL` `LLMs`
+⬇️
+
+**🧠 Multi-Agent Investigation**
+
+⬇️
+
+**🗃️ Intelligent SQL Analysis**
+
+⬇️
+
+**💡 Business Insights**
+
+⬇️
+
+**📈 KPI Monitoring & Alerts**
+
+⬇️
+
+**📄 Management Reports**
+
+\</div>
+
+### 🎯 What Nova Demonstrates
+
+`Data Science` • `Data Analytics` • `SQL` • `AI Agents` • `LLM Integration` • `Business Intelligence` • `Data Engineering` • `Dashboard Development`
+
+\<div align="center">
 
 \<br>
 
-\<a href="https://github.com/Mukeshrj31/nova-ai-data-analyst.git">   \<img src="[https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge\&logo=github\&logoColor=white)"> \</a>
+\<a href="PASTE_YOUR_NOVA_REPOSITORY_URL_HERE"> \<img src="[https://img.shields.io/badge/VIEW_NOVA_AI-GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/VIEW_NOVA_AI-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"> \</a>
 
-\</td>
+\<br>\<br>
 
-\<td width="50%" valign="top">
+### 💡 From Raw Data to Intelligent Business Decisions
+
+\</div>
+
+---
+
+
 
 ## 🖼️ Project Showcase
 
