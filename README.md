@@ -267,33 +267,37 @@ Generate structured reports from the completed analysis.
 
 # 🏆 Certifications & Achievements
 
-### 📚 Learning Beyond the Classroom
+### 📚 Professional Learning Journey
 
-> ### 🤖 GenAI Powered Data Analytics
+> ### <img src="https://cdn.simpleicons.org/tata/486AAE" width="28" height="28"> &nbsp; GenAI Powered Data Analytics
+>
 > **Tata** • May 2026  
 > `Generative AI` `Data Analytics` `Business Insights`
 
 <br>
 
-> ### 📊 Data Analytics Job Simulation
+> ### <img src="https://cdn.simpleicons.org/deloitte/86BC25" width="28" height="28"> &nbsp; Data Analytics Job Simulation
+>
 > **Deloitte** • June 2026  
-> `Data Analysis` `Business Analytics` `Problem Solving`
+> `Data Analytics` `Business Analysis` `Problem Solving`
 
 <br>
 
-> ### 🧠 Introduction to Generative AI
+> ### <img src="https://cdn.simpleicons.org/google/4285F4" width="28" height="28"> &nbsp; Introduction to Generative AI
+>
 > **Google** • October 2026  
 > `Generative AI` `LLMs` `AI Fundamentals`
 
 <br>
 
-> ### 🎓 Data Science Diploma
+> ### 🎓 &nbsp; Data Science Diploma
+>
 > **IIHT Jaipur** • Oct 2025 – Apr 2026  
 > `Python` `Data Science` `Statistics` `Machine Learning`
 
 ---
 
-### 🧩 Skills Strengthened Through Certifications
+### 🧩 Skills Strengthened
 
 ![Data Science](https://img.shields.io/badge/Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
@@ -304,7 +308,6 @@ Generate structured reports from the completed analysis.
 
 ### 🚀 Learning Journey
 
-**Data Science Foundation** → **Data Analytics** → **Generative AI** → **Building Intelligent Systems**
+**Data Science Foundation** → **Data Analytics** → **Generative AI** → **Intelligent Systems**
 
 ---
-
