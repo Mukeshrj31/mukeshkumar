@@ -119,7 +119,7 @@ AI-powered analytics platform designed to transform datasets into actionable bus
 
 \<br>
 
-\<a href="PASTE_NOVA_REPOSITORY_URL">   \<img src="[https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge\&logo=github\&logoColor=white)"> \</a>
+\<a href="https://github.com/Mukeshrj31/nova-ai-data-analyst.git">   \<img src="[https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge\&logo=github\&logoColor=white)"> \</a>
 
 \</td>
 
