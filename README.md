@@ -51,7 +51,7 @@ SQL analysis, KPI monitoring and business intelligence.
 
 **Tech:** Python • Streamlit • PostgreSQL • Pandas • LLMs
 
-[View Project →]([YOUR_NOVA_REPOSITORY_LINK](https://github.com/Mukeshrj31/nova-ai-data-analyst.git))
+[View Project →](https://github.com/Mukeshrj31/nova-ai-data-analyst.git)
 
 ---
 
